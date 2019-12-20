@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace pref="228" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="105" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.LineBorderInfo">
+            <LineBorder/>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc4" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc5" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc6" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc7" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc8" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc10" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc9" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc11" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc12" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc13" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc15" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc14" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc16" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc17" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc18" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc20" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc19" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+                  <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc21" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc22" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc23" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc25" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc24" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc26" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc27" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc28" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc30" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc29" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+                  <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc31" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc32" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc33" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc35" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc34" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+                  <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc36" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc37" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc38" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc40" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc39" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="19" pref="19" max="-2" attributes="0"/>
+                  <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc41" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc42" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc43" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc45" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc44" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc46" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc47" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc48" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc50" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc49" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc51" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc52" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc53" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc55" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc54" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc56" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc57" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc58" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc60" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc59" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc61" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc62" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc63" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc65" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc64" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc66" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc67" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc68" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc70" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc69" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel15" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc71" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc72" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc73" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc75" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc74" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel16" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc76" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc77" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc78" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc80" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc79" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc81" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc82" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc83" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc85" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc84" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc86" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc87" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc88" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc90" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc89" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc91" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc92" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc93" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc95" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc94" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="jLabel20" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc96" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Component id="Opc97" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc98" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="-2" attributes="0"/>
+                  <Component id="Opc100" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                  <Component id="Opc99" min="-2" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc1" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc2" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc4" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc5" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc6" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc7" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc8" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc10" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc9" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc11" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc12" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc13" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc15" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc14" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc16" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc17" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc18" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc20" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc19" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc21" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc22" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc23" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc25" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc24" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc26" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc27" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc28" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc30" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc29" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc31" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc32" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc33" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc35" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc34" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel8" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc36" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc37" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc38" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc40" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc39" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc41" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc42" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc43" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc45" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc44" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel10" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc46" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc47" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc48" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc50" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc49" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel11" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc51" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc52" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc53" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc55" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc54" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel12" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc56" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc57" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc58" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc60" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc59" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel13" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc61" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc62" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc63" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc65" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc64" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel14" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc66" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc67" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc68" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc70" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc69" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="jLabel15" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc71" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc72" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc73" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc75" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc74" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Component id="jLabel16" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc76" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc77" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc78" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc80" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc79" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Component id="jLabel17" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc81" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc82" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc83" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc85" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc84" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jLabel18" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc86" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc87" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc88" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc90" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc89" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Component id="jLabel19" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc91" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc92" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc93" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc95" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc94" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Component id="jLabel20" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="7" pref="7" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="Opc96" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc97" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc98" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc100" min="-2" max="-2" attributes="0"/>
+                      <Component id="Opc99" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="1. Sinceramente, creo que me exijo a mi mismo(a) exageradamente."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc1">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc2">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="2. A veces tengo la sensaci&#xf3;n de que las metas que persigo no me har&#xe1;n feliz."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc6">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc7">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc8">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc9">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc10">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="3. Si no cumpl&#xed; una promesa y me reclaman, me siento frustrado y tenso."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc11">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc12">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc13">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc14">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc15">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="4. Cuando trabajo en equipo necesito ser el lider para sentirme bien."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc16">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc17">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc18">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc19">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc20">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="5. A veces meto un tema de conversaci&#xf3;n para demostrar lo mucho que s&#xe9; de &#xe9;l."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc21">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc22">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc23">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc24">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc25">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="6. En las reuniones no puedo evitar tratar de llamar la atenci&#xf3;n de los dem&#xe1;s."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc26">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc27">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc28">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc29">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc30">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="7. A veces quiero mostrar ser otra persona para caer bien e interesar a la gente."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc31">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc32">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc33">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc34">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc35">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel8">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="8. Definitivamente, soy una persona perfeccionista."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc36">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc37">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc38">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc39">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc40">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel9">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="9. Sinceramente, prefiero que otros tomen las decisiones en mi lugar."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc41">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc42">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc43">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc44">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc45">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel10">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="10. Me encanta comunicar mis logros a la personas aunque no me lo pregunten."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc46">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc47">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc48">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc49">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc50">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel11">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="11. No puedo evitar sentirme bien cuando descubro un error en alguien m&#xe1;s, aunque no se lo diga."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc51">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc52">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc53">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc54">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc55">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel12">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="12. Tengo fantasias en las que alcanzo grandes logros y soy aplaudido por ellos."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc56">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc57">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc58">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc59">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc60">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel13">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="13. Siento que aveces me manipulan usando mi ego, sin darme cuenta."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc61">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc62">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc63">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc64">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc65">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel14">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="14.En muchos aspectos, siento que he dejado pasar la vida haciendo cosas que no disfruto."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc66">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc67">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc68">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc69">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc70">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel15">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="15. Mi vida transcurre en mucha tensi&#xf3;n."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc71">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc72">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc73">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc74">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc75">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel16">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="16. La verdad, a veces me siento harto de trabajar tan arduamente."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc76">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc77">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc78">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc79">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc80">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel17">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="17. A veces tengo la sensaci&#xf3;n de que necesito a los dem&#xe1;s m&#xe1;s que ellos a mi."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc81">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc82">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc83">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc84">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc85">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel18">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="18. Algunas veces me porto amable, mientras que en mi interior siento odio, envidia o angustia."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc86">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc87">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc88">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc89">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc90">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel19">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="19.A veces estoy seguro de que hacer en una situaci&#xf3;n, pero a&#xfa;n as&#xed; pido consejo a alguien."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc91">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc92">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc93">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc94">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc95">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel20">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="12" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="20. Creo que en mi vida las apariencias de los dem&#xe1;s y la mia han sido muy importantes."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc96">
+          <Properties>
+            <Property name="selected" type="boolean" value="true"/>
+            <Property name="text" type="java.lang.String" value="Nunca"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc97">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Rara vez"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc98">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="A menudo"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc99">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Siempre"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JRadioButton" name="Opc100">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Muy seguido"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
